@@ -1,4 +1,8 @@
 {
+ "background_color": "#000000",
+ "start_url": "index.htm",
+ "name": "Taty Beauty Ateliê - Tour Virtual 360°",
+ "description": "R. David Ben Gurion, 1001 - 03 - Jardim Monte Kemel, São Paulo - SP, 05634-001",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Taty Beauty Ateliê - Tour Virtual 360°",
- "description": "R. David Ben Gurion, 1001 - 03 - Jardim Monte Kemel, São Paulo - SP, 05634-001",
- "display": "fullscreen",
- "background_color": "#000000",
- "start_url": "index.htm",
- "theme_color": "#000000"
+ "theme_color": "#000000",
+ "display": "fullscreen"
 }
